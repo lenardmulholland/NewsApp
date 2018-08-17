@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="news">#C70000</color>
+    <color name="opinion">#E05E00</color>
+    <color name="sport">#79C5F1</color>
+    <color name="arts">#A1845C</color>
+    <color name="lifestyle">#BB3B80</color>
+    <color name="unknown">#00C853</color>
+    <color name="mainBackground">#E9EFF1</color>
+</resources>
